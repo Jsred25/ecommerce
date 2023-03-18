@@ -20,7 +20,7 @@ include_once '../connect.php';
 <body>
 
     <section class="container py-5">
-        <h1 class="title text-center mb-4">Jonathan Moralde's Shop</h1>
+        <h1 class="title text-center mb-4">JRED'S Shop</h1>
         <div class="row">
             
                 <?php
