@@ -48,7 +48,14 @@ include_once '../connect.php';
                 
                 ?>
             
-                    
+            <div class ="mt-4" >
+                      <a href="../index.php" class="btn btn-dark me-3">Back</a>
+                    </div>
+ 
+            <div class="d-flex mt-4 justify-content-center">
+
+                    <a href="order_list.php" class="btn btn-secondary me-3">Order List</a>                 
+                    </div>         
                 
             
         </div>
